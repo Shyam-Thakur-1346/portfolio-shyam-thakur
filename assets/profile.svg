@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="400" y2="400">
+      <stop offset="0%" stop-color="#1a2332"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#d4af37"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg)"/>
+  <circle cx="200" cy="155" r="72" fill="#2a3548" stroke="url(#accent)" stroke-width="3"/>
+  <ellipse cx="200" cy="320" rx="110" ry="95" fill="#2a3548"/>
+  <text x="200" y="385" text-anchor="middle" fill="#d4af37" font-family="Georgia, serif" font-size="22" font-weight="600">ST</text>
+</svg>
